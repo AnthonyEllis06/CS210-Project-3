@@ -1,0 +1,3 @@
+C:/Users/Anthony/CLionProjects/ProjectThreeProgrammingLanguages/cmake-build-debug/CMakeFiles/ProjectThreeProgrammingLanguages.dir
+C:/Users/Anthony/CLionProjects/ProjectThreeProgrammingLanguages/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anthony/CLionProjects/ProjectThreeProgrammingLanguages/cmake-build-debug/CMakeFiles/rebuild_cache.dir
